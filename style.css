@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  width:80%;
+  margin: 0 auto;
+}
+
+#output {
+  width:100%;
+  margin-top: 24px;
+  aspect-ratio: 6/1;
+  border: 1px solid blueviolet;
+}
